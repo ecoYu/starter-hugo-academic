@@ -27,10 +27,14 @@ sections:
           description: 85%
           icon: chart-line
           icon_pack: fas
-       - name: Bilibili
-          description: 100%
-          icon: bilibili
+         - name: Douyin
+          description: 95%
+          icon: tiktok
           icon_pack: fab
+        - name: Volleyball
+          description: 80%
+          icon: volleyball
+          icon_pack: fas
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
