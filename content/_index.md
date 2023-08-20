@@ -19,14 +19,18 @@ sections:
           description: 80%
           icon: r-project
           icon_pack: fab
+        - name: STATA
+          description: 90%
+          icon: house
+          icon_pack: fas
         - name: Statistics
           description: 85%
           icon: chart-line
           icon_pack: fas
-        - name: STATA
-          description: 85%
-          icon: house
-          icon_pack: fas
+        - name: Bilibili
+          description: 100%
+          icon: bilibli
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
