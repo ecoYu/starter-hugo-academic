@@ -54,27 +54,35 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          date_start: '2023-06'
+          description: More to be announced, stay tuned!
+          organization: School of Applied Economics of Renmin University of China
+          organization_url: http://ae.ruc.edu.cn/home/index.htm
+          title: Second prize of Undergraduate dissertation
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          date_start: '2022-09'
+          description: More to be announced, stay tuned!
+          organization: School of Applied Economics of Renmin University of China
+          organization_url: http://ae.ruc.edu.cn/home/index.htm
+          title: First Prize of the “Jingshi Cup” Academic Writing Competition
+          url: ''
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          date_end: ''
+          date_start: '2021-12'
+          description: More to be announced, stay tuned!
+          organization: Renmin University of China
+          organization_url: https://www.ruc.edu.cn/en
+          title: Third Scholarship for Social Work and Voluntary Service
+          url: ''
+        - certificate_url: https://www.datacamp.com
+          date_end: ''
+          date_start: '2020-12'
+          description: More to be announced, stay tuned!
+          organization: Student Union of Renmin University of China
+          organization_url: 
+          title: Runner-up of Debate Contest at Renmin University of China
           url: ''
     design:
       columns: '2'
