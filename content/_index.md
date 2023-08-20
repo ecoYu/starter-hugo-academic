@@ -31,6 +31,10 @@ sections:
           description: 80%
           icon: volleyball
           icon_pack: fas
+        - name: tiktok
+          description: 95%
+          icon: tiktok
+          icon_pack: fab
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
