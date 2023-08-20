@@ -31,9 +31,13 @@ sections:
           description: 80%
           icon: volleyball
           icon_pack: fas
-        - name: tiktok
+        - name: Tiktok
           description: 95%
           icon: tiktok
+          icon_pack: fab
+        - name: bilibili
+          description: 95%
+          icon: bilibili
           icon_pack: fab
   - block: accomplishments
     content:
