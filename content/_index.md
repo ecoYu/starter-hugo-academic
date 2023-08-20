@@ -26,7 +26,7 @@ sections:
         - name: STATA
           description: 90%
           icon: bomb
-          icon_pack: fas
+          icon_pack: fab
        - name: Bilibili
           description: 100%
           icon: bilibili
