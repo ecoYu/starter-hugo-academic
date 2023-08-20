@@ -52,7 +52,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: ''
           date_end: ''
           date_start: '2023-06-01'
           description: More to be announced, stay tuned!
@@ -60,7 +60,7 @@ sections:
           organization_url: http://ae.ruc.edu.cn/home/index.htm
           title: Second prize of Undergraduate dissertation
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
           date_end: ''
           date_start: '2022-09-01'
           description: More to be announced, stay tuned!
@@ -74,7 +74,7 @@ sections:
           description: More to be announced, stay tuned!
           organization: Renmin University of China
           organization_url: https://www.ruc.edu.cn/en
-          title: Third Scholarship for Social Work and Voluntary Service
+          title: Scholarship for Social Work and Voluntary Service
           url: ''
         - certificate_url: ''
           date_end: ''
@@ -83,6 +83,14 @@ sections:
           organization: Student Union of Renmin University of China
           organization_url: ''
           title: Runner-up of Debate Contest at Renmin University of China
+          url: ''
+         - certificate_url: ''
+          date_end: ''
+          date_start: '2020-12-01'
+          description: More to be announced, stay tuned!
+          organization: Renmin University of China
+          organization_url: https://www.ruc.edu.cn/en
+          title: Outstanding School Cadre
           url: ''
     design:
       columns: '2'
@@ -196,33 +204,19 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: yu.xiaokun@outlook.com
+      phone: +86 136 9508 0017
+      # appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: Avenida da Universidade
+        city: Taipa
+        region: Macau
+        postcode: '999078'
+        country: China
+        country_code: CN
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+        - 'Wednesday 20:00 to 23:00'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
