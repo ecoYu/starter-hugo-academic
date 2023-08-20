@@ -27,6 +27,10 @@ sections:
           description: 85%
           icon: chart-line
           icon_pack: fas
+       - name: Bilibili
+          description: 100%
+          icon: bilibili
+          icon_pack: fab
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
