@@ -43,6 +43,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yu Xiaokun(Bryce) is a master's candidate in the Department of Economics at the University of Macau. He graduated from the School of Applied Economics at Renmin University of China with a bachelor's degree in Economics in 2023. His research interests include digital economics, innovation economics and quantitative economics, with a particular focus on the socio-economic impact of major historical events.
 {style="text-align: justify;"}
