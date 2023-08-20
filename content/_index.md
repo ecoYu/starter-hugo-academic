@@ -27,10 +27,6 @@ sections:
           description: 85%
           icon: chart-line
           icon_pack: fas
-         - name: Douyin
-          description: 95%
-          icon: tiktok
-          icon_pack: fab
         - name: Volleyball
           description: 80%
           icon: volleyball
