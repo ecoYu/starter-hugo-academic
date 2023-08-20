@@ -30,7 +30,7 @@ sections:
        - name: Bilibili
           description: 100%
           icon: bilibili
-          icon_pack: fab
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
