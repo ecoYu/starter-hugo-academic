@@ -32,11 +32,11 @@ sections:
           icon: bilibili
           icon_pack: fab
        - name: Douyin
-          description: 100%
+          description: 95%
           icon: tiktok
           icon_pack: fab
         - name: Volleyball
-          description: 100%
+          description: 80%
           icon: volleyball
           icon_pack: fas
   - block: accomplishments
