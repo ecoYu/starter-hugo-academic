@@ -25,8 +25,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Macau
+    url: https://www.um.edu.mo/
 education:
   courses:
     - course: PhD in Artificial Intelligence
