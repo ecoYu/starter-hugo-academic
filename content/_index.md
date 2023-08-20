@@ -68,7 +68,7 @@ sections:
           organization_url: http://ae.ruc.edu.cn/home/index.htm
           title: First Prize of the "Jingshi Cup" Academic Writing Competition
           url: ''
-        - certificate_url: https://www.datacamp.com
+        - certificate_url: ''
           date_end: ''
           date_start: '2021-12-01'
           description: More to be announced, stay tuned!
@@ -76,7 +76,7 @@ sections:
           organization_url: https://www.ruc.edu.cn/en
           title: Third Scholarship for Social Work and Voluntary Service
           url: ''
-        - certificate_url: https://www.datacamp.com
+        - certificate_url: ''
           date_end: ''
           date_start: '2020-12-01'
           description: More to be announced, stay tuned!
