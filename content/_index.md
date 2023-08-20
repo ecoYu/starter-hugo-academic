@@ -32,10 +32,10 @@ sections:
           icon: volleyball
           icon_pack: fas
         - name: Tiktok
-          description: 95%
+          description: 90%
           icon: tiktok
           icon_pack: fab
-        - name: bilibili
+        - name: Bilibili
           description: 95%
           icon: bilibili
           icon_pack: fab
