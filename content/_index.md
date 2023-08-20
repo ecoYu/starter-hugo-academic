@@ -54,7 +54,7 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2023-06'
+          date_start: '2023-06-01'
           description: More to be announced, stay tuned!
           organization: School of Applied Economics of Renmin University of China
           organization_url: http://ae.ruc.edu.cn/home/index.htm
@@ -62,7 +62,7 @@ sections:
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2022-09'
+          date_start: '2022-09-01'
           description: More to be announced, stay tuned!
           organization: School of Applied Economics of Renmin University of China
           organization_url: http://ae.ruc.edu.cn/home/index.htm
@@ -70,7 +70,7 @@ sections:
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: ''
-          date_start: '2021-12'
+          date_start: '2021-12-01'
           description: More to be announced, stay tuned!
           organization: Renmin University of China
           organization_url: https://www.ruc.edu.cn/en
@@ -78,7 +78,7 @@ sections:
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: ''
-          date_start: '2020-12'
+          date_start: '2020-12-01'
           description: More to be announced, stay tuned!
           organization: Student Union of Renmin University of China
           organization_url: ''
