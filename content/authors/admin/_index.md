@@ -1,6 +1,6 @@
 ---
 title: Bryce Yu 俞小坤
-role: Professor of Artificial Intelligence
+role: Postgraduate student in the Department of Economics
 avatar_filename: https://cdn-us.imgs.moe/2023/08/20/64e1b202ca8d8.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
