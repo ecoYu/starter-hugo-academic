@@ -66,7 +66,7 @@ sections:
           description: More to be announced, stay tuned!
           organization: School of Applied Economics of Renmin University of China
           organization_url: http://ae.ruc.edu.cn/home/index.htm
-          title: First Prize of the “Jingshi Cup” Academic Writing Competition
+          title: First Prize of the "Jingshi Cup" Academic Writing Competition
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: ''
@@ -81,7 +81,7 @@ sections:
           date_start: '2020-12'
           description: More to be announced, stay tuned!
           organization: Student Union of Renmin University of China
-          organization_url: 
+          organization_url: ''
           title: Runner-up of Debate Contest at Renmin University of China
           url: ''
     design:
