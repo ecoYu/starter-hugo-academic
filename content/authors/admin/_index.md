@@ -5,9 +5,9 @@ avatar_filename: avatar.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Digital Economics
+  - Innovation Economics
+  - Quantitative History
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,7 +29,7 @@ organizations:
     url: https://www.um.edu.mo/
 education:
   courses:
-    - course: Master Candidate of Economics
+    - course: Master Candidate in Economics
       institution: Faculty of Social Sciences, The University of Macau
       year: ""
     - course: Bachelor of Economics
