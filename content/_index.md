@@ -23,6 +23,10 @@ sections:
           description: 85%
           icon: chart-line
           icon_pack: fas
+        - name: STATA
+          description: 85%
+          icon: house
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
