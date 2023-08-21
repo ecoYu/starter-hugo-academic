@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
-date: 2020-12-13T00:00:00Z
+title: Welcome to my Home Page
+subtitle: Welcome 👋 I know that first impressions count, so I've added some
+  up-to-date content about me to my personal website to help you get familiar
+  with me and my work quickly.
+date: 2020-12-13T00:00:00.000Z
 summary: Welcome 👋 We know that first impressions are important, so we've
   populated your new site with some initial content to help you get familiar
   with everything in no time.
@@ -11,7 +11,7 @@ draft: false
 featured: false
 authors:
   - admin
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Academic
   - 开源
@@ -26,11 +26,6 @@ image:
   preview_only: false
 ---
 
-```python
-import libr
-print('hello')
-```
-
 ## Overview
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
@@ -41,12 +36,12 @@ print('hello')
 
 ## Get Started
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+* 👉 **[Create a new site](https://wowchemy.com/templates/)**
+* 📚 **[Personalize your site](https://wowchemy.com/docs/)**
+* 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or **[Hugo community](https://discourse.gohugo.io)**
+* 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [\#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
+* 💡 [Request a **feature** or report a **bug** for *Wowchemy*](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
+* ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
 
 ## Crowd-funded open-source software
 
@@ -58,7 +53,7 @@ As a token of appreciation for sponsoring, you can **unlock [these](https://wowc
 
 ## Ecosystem
 
-- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
 
 ## Inspiration
 
@@ -66,21 +61,21 @@ As a token of appreciation for sponsoring, you can **unlock [these](https://wowc
 
 ## Features
 
-- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+* **Page builder** - Create *anything* with **[widgets](https://wowchemy.com/docs/page-builder/)** and **[elements](https://wowchemy.com/docs/content/writing-markdown-latex/)**
+* **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
+* **Create content** in **[Markdown](https://wowchemy.com/docs/content/writing-markdown-latex/)**, **[Jupyter](https://wowchemy.com/docs/import/jupyter/)**, or **[RStudio](https://wowchemy.com/docs/install-locally/)**
+* **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
+* **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
+* **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
+* **Beautiful Site** - Simple and refreshing one page design
+* **Industry-Leading SEO** - Help get your website found on search engines and social media
+* **Media Galleries** - Display your images and videos with captions in a customizable gallery
+* **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
+* **Multi-language** - 34+ language packs including English, 中文, and Português
+* **Multi-user** - Each author gets their own profile page
+* **Privacy Pack** - Assists with GDPR
+* **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
+* **One-Click Deployment** - No servers. No databases. Only files.
 
 ## Themes
 
