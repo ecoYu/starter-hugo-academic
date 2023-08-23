@@ -26,7 +26,7 @@ organizations:
     url: https://www.um.edu.mo/
 education:
   courses:
-    - course: Master's Candidate in Economics, 2023 - Present
+    - course: Master's Candidate in Economics, Present
       institution: Faculty of Social Sciences, The University of Macau
       year: ""
     - course: Bachelor of Economics
