@@ -1,6 +1,6 @@
 ---
-title: Bryce Yu 俞小坤
-role: Postgraduate student in Econ
+title: Xiaokun Yu 俞小坤
+role: Postgraduate Student in Economics
 avatar_filename: avatar.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -40,5 +40,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Bryce Yu is a master's candidate in the Department of Economics at the University of Macau. He graduated from the School of Applied Economics at Renmin University of China with a bachelor's degree in Economics in 2023. His research interests include digital economics, innovation economics and quantitative economics, with a particular focus on the socio-economic impact of major historical events.
+Yu Xiaokun is a master's candidate in the Department of Economics at the University of Macau. He graduated from the School of Applied Economics at Renmin University of China with a bachelor's degree in Economics in 2023. His research interests include digital economics, innovation economics and quantitative economics, with a particular focus on the socio-economic impact of major historical events.
 {style="text-align: justify;"}
