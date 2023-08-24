@@ -1,9 +1,9 @@
 ---
-title: Working Paper: Natural disasters and social trust: Evidence from Tangshan Earthquake
+title: Natural disasters and social trust-Evidence from Tangshan Earthquake
 date: 2023-08-24
 math: true
 image:
-  placement: ''
+  placement: 2
   caption: ''
 ---
 
