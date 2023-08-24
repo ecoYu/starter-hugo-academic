@@ -66,6 +66,36 @@ sections:
           url: ''
     design:
       columns: '2'
+    - block: features
+    content:
+      title: Skills
+      items:
+        - name: R
+          description: 80%
+          icon: r-project
+          icon_pack: fab
+        - name: STATA
+          description: 90%
+          icon: house
+          icon_pack: fas
+        - name: Statistics
+          description: 85%
+          icon: chart-line
+          icon_pack: fas
+        - name: Volleyball
+          description: 80%
+          icon: volleyball
+          icon_pack: fas
+        - name: Tiktok
+          description: 90%
+          icon: tiktok
+          icon_pack: fab
+        - name: Bilibili
+          description: 95%
+          icon: bilibili
+          icon_pack: fab
+      design:
+      columns: '2'
   - block: collection
     id: posts
     content:
@@ -128,36 +158,6 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-- block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 80%
-          icon: r-project
-          icon_pack: fab
-        - name: STATA
-          description: 90%
-          icon: house
-          icon_pack: fas
-        - name: Statistics
-          description: 85%
-          icon: chart-line
-          icon_pack: fas
-        - name: Volleyball
-          description: 80%
-          icon: volleyball
-          icon_pack: fas
-        - name: Tiktok
-          description: 90%
-          icon: tiktok
-          icon_pack: fab
-        - name: Bilibili
-          description: 95%
-          icon: bilibili
-          icon_pack: fab
-      design:
-      columns: '3'
   - block: contact
     id: contact
     content:
