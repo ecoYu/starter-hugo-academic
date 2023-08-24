@@ -3,7 +3,7 @@ title: Working Paper: Natural disasters and social trust: Evidence from Tangshan
 date: 2023-08-24
 math: true
 image:
-  placement: 2
+  placement: ''
   caption: ''
 ---
 
