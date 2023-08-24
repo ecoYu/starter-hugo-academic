@@ -128,53 +128,13 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        If you have any questions, please don't hesitate to contact me.
       # Contact (add or remove contact options as necessary)
       email: yu.xiaokun@outlook.com
       phone: +86 136 9508 0017
@@ -183,14 +143,14 @@ sections:
         street: Avenida da Universidade
         city: Taipa
         region: Macau
-        postcode: '999078'
+        postcode: ''
         country: China
         country_code: CN
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Wednesday 20:00 to 23:00'
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
       # Email form provider
       form:
         provider: netlify
