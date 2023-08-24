@@ -11,34 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 80%
-          icon: r-project
-          icon_pack: fab
-        - name: STATA
-          description: 90%
-          icon: house
-          icon_pack: fas
-        - name: Statistics
-          description: 85%
-          icon: chart-line
-          icon_pack: fas
-        - name: Volleyball
-          description: 80%
-          icon: volleyball
-          icon_pack: fas
-        - name: Tiktok
-          description: 90%
-          icon: tiktok
-          icon_pack: fab
-        - name: Bilibili
-          description: 95%
-          icon: bilibili
-          icon_pack: fab
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -55,7 +27,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2023-06-01'
-          description: More to be announced, stay tuned.
+          description: ''
           organization: School of Applied Economics of Renmin University of China
           organization_url: http://ae.ruc.edu.cn/home/index.htm
           title: Second prize of Undergraduate dissertation
@@ -63,7 +35,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2022-09-01'
-          description: More to be announced, stay tuned.
+          description:  ''
           organization: School of Applied Economics of Renmin University of China
           organization_url: http://ae.ruc.edu.cn/home/index.htm
           title: First Prize of the "Jingshi Cup" Academic Writing Competition
@@ -71,7 +43,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2021-12-01'
-          description: More to be announced, stay tuned.
+          description:  ''
           organization: Renmin University of China
           organization_url: https://www.ruc.edu.cn/en
           title: Scholarship for Social Work and Voluntary Service
@@ -79,15 +51,15 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2020-12-01'
-          description: More to be announced, stay tuned.
-          organization: Student Union of Renmin University of China
+          description:  ''
+          organization: Renmin University of China
           organization_url: ''
           title: Runner-up of Debate Contest at Renmin University of China
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2020-12-01'
-          description: More to be announced, stay tuned.
+          description:  ''
           organization: Renmin University of China
           organization_url: https://www.ruc.edu.cn/en
           title: Outstanding School Cadre
