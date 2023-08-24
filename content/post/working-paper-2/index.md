@@ -1,5 +1,5 @@
 ---
-title: Research on Natural disasters and social trust
+title: Research on Disaster Experience and Social Trust Capital
 date: 2023-08-24
 math: true
 image:
@@ -7,7 +7,7 @@ image:
   caption: ''
 ---
 
-### Natural disasters and social trust: Evidence from Tangshan Earthquake
+### Disaster Experience and Social Trust Capital: Evidence from Tangshan Earthquake
 
 **Xiaokun Yu; Yugang Yang; Yang Liu**
 
