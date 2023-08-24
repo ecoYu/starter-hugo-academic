@@ -129,7 +129,6 @@ sections:
     design:
       columns: '1'
  - block: features
-      id：about
       content:
       title: Skills
       subtitle: ''
