@@ -11,34 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 80%
-          icon: r-project
-          icon_pack: fab
-        - name: STATA
-          description: 90%
-          icon: house
-          icon_pack: fas
-        - name: Statistics
-          description: 85%
-          icon: chart-line
-          icon_pack: fas
-        - name: Volleyball
-          description: 80%
-          icon: volleyball
-          icon_pack: fas
-        - name: Tiktok
-          description: 90%
-          icon: tiktok
-          icon_pack: fab
-        - name: Bilibili
-          description: 95%
-          icon: bilibili
-          icon_pack: fab
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
