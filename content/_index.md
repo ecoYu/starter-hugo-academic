@@ -129,10 +129,8 @@ sections:
     design:
       columns: '1'
  - block: features
-      id：good
       content:
       title: Skills
-      subtitle: ''
       items:
         - name: R
           description: 80%
@@ -159,7 +157,7 @@ sections:
           icon: bilibili
           icon_pack: fab
       design:
-      columns: '2'
+      columns: '3'
   - block: contact
     id: contact
     content:
