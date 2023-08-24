@@ -156,6 +156,8 @@ sections:
           description: 95%
           icon: bilibili
           icon_pack: fab
+      design:
+      columns: '3'
   - block: contact
     id: contact
     content:
