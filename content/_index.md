@@ -129,9 +129,10 @@ sections:
     design:
       columns: '1'
  - block: features
-      id：good
+      id：about
       content:
       title: Skills
+      subtitle: ''
       items:
         - name: R
           description: 80%
