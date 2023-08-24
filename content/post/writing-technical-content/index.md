@@ -1,11 +1,17 @@
 ---
-title: Natural disasters and social trust-Evidence from Tangshan Earthquake
+title: Working Paper on Natural disasters and social trust
 date: 2023-08-24
 math: true
 image:
   placement: 2
   caption: ''
 ---
+
+### Natural disasters and social trust: Evidence from Tangshan Earthquake
+
+**Xiaokun Yu; Yugang Yang; Yang Liu**
+
+**(School of Applied Economics of Renmin Universuty of China,   Beijing    100872)**
 
 ## Abstract
 
@@ -26,6 +32,8 @@ Trust is an important social capital. This paper regards the 1976 Tangshanearthq
 
 
 ## Get the latest version
+
+👉[Chinese Vision: revised in 05/30/2023](https://maifile.cn/est/d3286906177718/pdf)
 
 
 ### If you have any suggestions and comments, please let me know by email 🙌
