@@ -1,9 +1,16 @@
 ---
-title: Research on Disaster Experience and Social Trust
-date: 2023-08-24
-math: true
 authors:
   - admin
+math: true
+title: Research on Disaster Experience and Social Trust
+date: 2023-08-24
+tags:
+  - Research
+  - 研究
+categories:
+  - SocialTrust
+  - 社会信任问题
+projects: []
 image:
   placement: ""
   caption: ""
