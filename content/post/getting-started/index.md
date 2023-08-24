@@ -1,12 +1,10 @@
 ---
-title: Welcome to my Home Page
+title: Welcome to my HomePage
 subtitle: Welcome 👋 I know that first impressions count, so I've added some
   up-to-date content about me to my personal website to help you get familiar
   with me and my work quickly.
 date: 2020-12-13T00:00:00.000Z
-summary: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
+summary: ""
 draft: false
 featured: false
 authors:
@@ -14,77 +12,29 @@ authors:
 lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Academic
-  - 开源
+  - 学术个人网站
 categories:
-  - Demo
-  - 教程
+  - Introduction
+  - 个人介绍
 projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
   focal_point: ""
-  placement: 2
+  placement: ""
   preview_only: false
 ---
 
-## Overview
+### Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+Yu Xiaokun is a master’s candidate in the Department of Economics at the University of Macau. He graduated from the School of Applied Economics at Renmin University of China with a bachelor’s degree in Economics in 2023. His research interests include digital economics, innovation economics and quantitative history, with a particular focus on the socio-economic impact of major historical events.
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
+### 个人介绍
 
-## Get Started
+俞小坤，男，汉族，中共党员，2001年3月生，福建南平人，毕业于中国人民大学应用经济学院，经济学学士学位。现于澳门大学社会科学学院攻读经济学硕士学位。曾任中国人民大学纵横辩论社社长团成员，应用经济学院辩论队队长、党员先锋促进会组织部骨干成员。在人大就读期间曾入选为庆祝中华人民共和国成立70周年大会人大方阵出征仪式志愿者、庆祝中国共产党成立100周年大会现场志愿者、“中华人民共和国脱贫攻坚史研究”暨832工程系列调研项目新疆哈密市调研组成员；曾获中国人民大学辩论赛亚军、社会工作与志愿服务奖学金、中国人民大学优秀学生干部嘉奖等。工作论文《选择倾向与经济代价：新疆恐怖袭击的经验证据》获应用经济学院"经世杯"论文竞赛一等奖；工作论文《灾难经历抑制了社会信任的建构吗？—基于唐山大地震的证据》入选香樟 SEMINAR（济南）暨 "发展经济学" 专题研讨会参会论文，在其基础上完善的本科毕业论文获评应用经济学院2023届优秀本科生学士学位论文二等奖。研究方向为创新与发展、能源经济、政治经济学、发展经济学，尤其关注重大历史事件对社会经济的影响。
 
-* 👉 **[Create a new site](https://wowchemy.com/templates/)**
-* 📚 **[Personalize your site](https://wowchemy.com/docs/)**
-* 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or **[Hugo community](https://discourse.gohugo.io)**
-* 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [\#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-* 💡 [Request a **feature** or report a **bug** for *Wowchemy*](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-* ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+### Contact me
 
-## Crowd-funded open-source software
+- Email: yu.xiaokun@outlook.com
+- Phone: +853 6353 1779
+- Address: Avenida da Universidade, Taipa, Macau, CN
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/sponsor/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/sponsor/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-* **Page builder** - Create *anything* with **[widgets](https://wowchemy.com/docs/page-builder/)** and **[elements](https://wowchemy.com/docs/content/writing-markdown-latex/)**
-* **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-* **Create content** in **[Markdown](https://wowchemy.com/docs/content/writing-markdown-latex/)**, **[Jupyter](https://wowchemy.com/docs/import/jupyter/)**, or **[RStudio](https://wowchemy.com/docs/install-locally/)**
-* **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-* **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-* **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-* **Beautiful Site** - Simple and refreshing one page design
-* **Industry-Leading SEO** - Help get your website found on search engines and social media
-* **Media Galleries** - Display your images and videos with captions in a customizable gallery
-* **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-* **Multi-language** - 34+ language packs including English, 中文, and Português
-* **Multi-user** - Each author gets their own profile page
-* **Privacy Pack** - Assists with GDPR
-* **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-* **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
