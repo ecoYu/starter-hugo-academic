@@ -1,5 +1,5 @@
 ---
-title: Research on Disaster Experience and Social Trust Capital
+title: Research on Disaster Experience and Social Trust
 date: 2023-08-24
 math: true
 image:
