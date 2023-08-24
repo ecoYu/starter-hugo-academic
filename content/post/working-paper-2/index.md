@@ -4,6 +4,12 @@ date: 2023-08-24
 math: true
 authors:
   - admin
+tags:
+  - Research
+  - 研究
+categories:
+  - SocialTrust
+  - 社会信任问题
 image:
   placement: ""
   caption: ""
