@@ -159,7 +159,7 @@ sections:
           icon: bilibili
           icon_pack: fab
       design:
-      columns: '3'
+      columns: '2'
   - block: contact
     id: contact
     content:
