@@ -1,10 +1,12 @@
 ---
-title: Research 
+title: Research on Disaster Experience and Social Trust
 date: 2023-08-24
 math: true
+authors:
+  - admin
 image:
-  placement: ''
-  caption: ''
+  placement: ""
+  caption: ""
 ---
 
 ### Disaster Experience and Social Trust Capital: Evidence from Tangshan Earthquake
