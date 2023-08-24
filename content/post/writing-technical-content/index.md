@@ -3,8 +3,8 @@ title: Research on Natural disasters and social trust
 date: 2023-08-24
 math: true
 image:
-  placement: 2
-  caption: 'Image credit: [**Chinadaily.com**](https://cdn-us.imgs.moe/2023/08/24/64e6e069f3f03.jpg)'
+  placement: ''
+  caption: ''
 ---
 
 ### Natural disasters and social trust: Evidence from Tangshan Earthquake
