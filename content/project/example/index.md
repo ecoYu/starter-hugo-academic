@@ -13,7 +13,7 @@ tags:
   - Field Research
 links:
   - icon: building-columns
-    icon_pack: fab
+    icon_pack: fas
     name: 👉832 Project
     url: https://news.ruc.edu.cn/archives/372996
 image:
