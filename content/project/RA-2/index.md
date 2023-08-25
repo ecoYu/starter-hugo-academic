@@ -10,7 +10,7 @@ external_link: ""
 url_slides: ""
 title:  My Research Assistant Career
 tags:
-  - RA
+  - Research Assistant
 links:
   - icon: user-tie
     icon_pack: fas
