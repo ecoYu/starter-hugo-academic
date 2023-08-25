@@ -48,11 +48,11 @@ sections:
           organization_url: https://www.ruc.edu.cn/en
           title: Scholarship for Social Work and Voluntary Service
           url: ''
-        - certificate_url: ''
+        - certificate_url: http://ae.ruc.edu.cn/xwzx/xydt/9ce25ed4a6c240c8b7e690745b242524.htm
           date_end: ''
           date_start: '2020-12-01'
           description:  ''
-          organization: Renmin University of China
+          organization: Student Union of Renmin University of China
           organization_url: ''
           title: Runner-up of Debate Contest at Renmin University of China
           url: ''
