@@ -1,21 +1,21 @@
 ---
 slides: ""
 url_pdf: ""
-summary: ""
+summary: I will briefly introduce my RA career for Leona.L, Bruce.Z and Stone B.
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
 categories:
   - Research Assistant
 external_link: ""
 url_slides: ""
-title:  RA Experience for Bruce.Z
+title:  My Research Assistant Career
 tags:
   - RA
 links:
-  - icon: building-columns
+  - icon: user-tie
     icon_pack: fas
-    name: 👉832 Project
-    url: https://news.ruc.edu.cn/archives/372996
+    name: 👉What is RA
+    url: https://en.wikipedia.org/wiki/Research_assistant
 image:
   caption: Photo by my research team
   focal_point: Smart
