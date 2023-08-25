@@ -30,15 +30,15 @@ sections:
           description: ''
           organization: School of Applied Economics of Renmin University of China
           organization_url: http://ae.ruc.edu.cn/home/index.htm
-          title: Second prize of Undergraduate dissertation
+          title: Second Prize of Undergraduate Dissertation
           url: ''
-        - certificate_url: ''
+        - certificate_url: https://maifile.cn/est/k2966929570337/pdf
           date_end: ''
           date_start: '2022-09-01'
           description:  ''
           organization: School of Applied Economics of Renmin University of China
           organization_url: http://ae.ruc.edu.cn/home/index.htm
-          title: First Prize of the "Jingshi Cup" Academic Writing Competition
+          title: First Prize of the "JINGSHI CUP" Academic Writing Competition
           url: ''
         - certificate_url: ''
           date_end: ''
