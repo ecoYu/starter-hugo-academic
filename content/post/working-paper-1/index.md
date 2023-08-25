@@ -2,9 +2,17 @@
 title: Research on Terrorist Attacks in Xinjiang
 date: 2023-08-23
 math: true
+authors:
+  - admin
+tags:
+  - Research
+  - 研究
+categories:
+  - Terrorist
+  - 新疆恐袭问题
 image:
-  placement: ''
-  caption: ''
+  placement: ""
+  caption: ""
 ---
 
 ### Propensity and Economic Costs: Typical Terrorist Violent Attacks in Xinjiang, China
