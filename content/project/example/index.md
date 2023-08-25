@@ -12,10 +12,10 @@ title: Example Project
 tags:
   - Field Research
 links:
-  - icon: twitter
+  - icon: building-columns
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: 👉832 Project
+    url: https://news.ruc.edu.cn/archives/372996
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
