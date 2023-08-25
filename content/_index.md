@@ -40,7 +40,7 @@ sections:
           organization_url: http://ae.ruc.edu.cn/home/index.htm
           title: First Prize of the "JINGSHI CUP" Academic Writing Competition
           url: ''
-        - certificate_url: ''
+        - certificate_url: https://maifile.cn/est/k3216929574254/pdf
           date_end: ''
           date_start: '2021-12-01'
           description:  ''
@@ -56,7 +56,7 @@ sections:
           organization_url: ''
           title: Runner-up of Debate Contest at Renmin University of China
           url: ''
-        - certificate_url: ''
+        - certificate_url: https://maifile.cn/est/k2256929573250/pdf
           date_end: ''
           date_start: '2020-12-01'
           description:  ''
