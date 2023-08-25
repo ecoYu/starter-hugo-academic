@@ -14,7 +14,7 @@ tags:
 links:
   - icon: building-columns
     icon_pack: fas
-    name: 👉832 Project
+    name: 832 Project
     url: https://news.ruc.edu.cn/archives/372996
 image:
   caption: Photo by my research team

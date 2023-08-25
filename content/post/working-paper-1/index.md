@@ -27,8 +27,8 @@ image:
 * This paper was awarded the First Prize in the 3rd “**JINGSHI CUP**” Academic Writing Contest.
 * This paper is being changed into an English version and will be submitted to ***World Development***.
 
-### Get the latest version
+### Get the Latest Paper
 
-👉[Chinese Vision: Revised on 12/30/2022; Not downloadable](https://maifile.cn/est/d2476906187267/pdf)
+👉[Chinese Version: Revised on 12/30/2022; Not downloadable](https://maifile.cn/est/d2476906187267/pdf)
 
 ### If you have any suggestions and comments, please let me know by email 🙌

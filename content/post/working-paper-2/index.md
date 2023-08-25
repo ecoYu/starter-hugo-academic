@@ -36,9 +36,9 @@ image:
 - This paper is being changed into an English version and will be submitted to *Journal of Economic Behavior and Organization*.
 
 
-### Get the latest version
+### Get the Latest Paper
 
-👉[Chinese Vision: Revised on 05/30/2023](https://maifile.cn/est/d3286906177718/pdf)
+👉[Chinese Version: Revised on 05/30/2023](https://maifile.cn/est/d3286906177718/pdf)
 
 
 ### If you have any suggestions and comments, please let me know by email 🙌

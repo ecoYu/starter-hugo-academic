@@ -116,7 +116,7 @@ sections:
           tag: Research Assistant
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -152,13 +152,6 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: false
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---

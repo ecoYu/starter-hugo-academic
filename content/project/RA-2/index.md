@@ -10,11 +10,11 @@ external_link: ""
 url_slides: ""
 title:  My Research Assistant Career
 tags:
-  - RA
+  - Research Assistant
 links:
   - icon: user-tie
     icon_pack: fas
-    name: 👉What is RA
+    name: What is RA
     url: https://en.wikipedia.org/wiki/Research_assistant
 image:
   caption: Photo by my research team
