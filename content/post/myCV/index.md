@@ -1,5 +1,5 @@
 ---
-title: [TOP!] My Curriculum vitae
+title: TOP - My Curriculum vitae
 date: 2023-08-25
 math: true
 authors:
