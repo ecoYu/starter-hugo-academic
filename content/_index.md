@@ -30,17 +30,17 @@ sections:
           description: ''
           organization: School of Applied Economics of Renmin University of China
           organization_url: http://ae.ruc.edu.cn/home/index.htm
-          title: Second prize of Undergraduate dissertation
+          title: Second Prize of Undergraduate Dissertation
           url: ''
-        - certificate_url: ''
+        - certificate_url: https://maifile.cn/est/k2966929570337/pdf
           date_end: ''
           date_start: '2022-09-01'
           description:  ''
           organization: School of Applied Economics of Renmin University of China
           organization_url: http://ae.ruc.edu.cn/home/index.htm
-          title: First Prize of the "Jingshi Cup" Academic Writing Competition
+          title: First Prize of the "JINGSHI CUP" Academic Writing Competition
           url: ''
-        - certificate_url: ''
+        - certificate_url: https://maifile.cn/est/k3216929574254/pdf
           date_end: ''
           date_start: '2021-12-01'
           description:  ''
@@ -48,15 +48,15 @@ sections:
           organization_url: https://www.ruc.edu.cn/en
           title: Scholarship for Social Work and Voluntary Service
           url: ''
-        - certificate_url: ''
+        - certificate_url: http://ae.ruc.edu.cn/xwzx/xydt/9ce25ed4a6c240c8b7e690745b242524.htm
           date_end: ''
           date_start: '2020-12-01'
           description:  ''
-          organization: Renmin University of China
+          organization: Student Union of Renmin University of China
           organization_url: ''
           title: Runner-up of Debate Contest at Renmin University of China
           url: ''
-        - certificate_url: ''
+        - certificate_url: https://maifile.cn/est/k2256929573250/pdf
           date_end: ''
           date_start: '2020-12-01'
           description:  ''
@@ -110,10 +110,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Field Research
+          tag: Field Research
+        - name: RA
+          tag: Research Assistant
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
