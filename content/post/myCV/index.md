@@ -16,6 +16,6 @@ image:
 ---
 ### My Curriculum Vitae
 
-👉[CV, Updated on 07/30/2023; Not downloadable](https://maifile.cn/est/a2906929662915/pdf)
+👉[CV, Updated on 07/30/2023; Not downloadable](https://maifile.cn/est/a2746930208450/pdf)
 
 ### If you have any suggestions and comments, please let me know by email 🙌
