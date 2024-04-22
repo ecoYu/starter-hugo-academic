@@ -29,6 +29,6 @@ image:
 
 ### Get the Latest Paper
 
-👉[Chinese Version: Revised on 12/30/2022; Not downloadable](https://maifile.cn/est/d2476906187267/pdf)
+👉[Chinese Version: Revised on 12/30/2022](https://online.fliphtml5.com/htgpa/gqbd)
 
 ### If you have any suggestions and comments, please let me know by email 🙌
