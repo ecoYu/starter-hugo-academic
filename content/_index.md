@@ -40,7 +40,7 @@ sections:
           organization_url: http://ae.ruc.edu.cn/home/index.htm
           title: First Prize of the "JINGSHI CUP" Academic Writing Competition
           url: ''
-        - certificate_url:''
+        - certificate_url: ''
           date_end: ''
           date_start: '2021-12-01'
           description:  ''
