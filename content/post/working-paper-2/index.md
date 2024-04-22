@@ -38,7 +38,7 @@ image:
 
 ### Get the Latest Paper
 
-👉[Chinese Version: Revised on 05/30/2023](https://maifile.cn/est/d3286906177718/pdf)
+👉[Chinese Version: Revised on 05/30/2023](https://online.fliphtml5.com/htgpa/urro)
 
 
 ### If you have any suggestions and comments, please let me know by email 🙌
