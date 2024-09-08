@@ -16,6 +16,6 @@ image:
 ---
 ### My Curriculum Vitae
 
-👉[CV, Updated on 02/09/2024](https://online.fliphtml5.com/htgpa/rnsv)
+👉[CV, Updated on 02/09/2024](https://uofmacau-my.sharepoint.com/personal/mc35657_um_edu_mo/Documents/CV_Yu.pdf?CT=1725799012435&OR=ItemsView)
 
 ### If you have any suggestions and comments, please let me know by email 🙌
