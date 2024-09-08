@@ -38,8 +38,7 @@ image:
 
 ### Get the Latest Paper
 
-👉[Chinese Version: Revised on 05/30/2023](chrome-extension://bocbaocobfecmglnmeaeppambideimao/pdf/viewer.html?file=https%3A%2F%2Fuofmacau-my.sharepoint.com%2Fpersonal%2Fmc35657_um_edu_mo%2FDocuments%2F%25E7%2581%25BE%25E5%25AE%25B3%25E7%25BB%258F%25E5%258E%2586%25E4%25B8%258E%25E7%25A4%25BE%25E4%25BC%259A%25E4%25BF%25A1%25E4%25BB%25BB%25E8%25B5%2584%25E6%259C%25AC_Yu.pdf%3FCT%3D1725798423991%26OR%3DItemsView)
-
+👉[Chinese Version: Revised on 05/30/2023](https://uofmacau-my.sharepoint.com/personal/mc35657_um_edu_mo/Documents/%E7%81%BE%E5%AE%B3%E7%BB%8F%E5%8E%86%E4%B8%8E%E7%A4%BE%E4%BC%9A%E4%BF%A1%E4%BB%BB%E8%B5%84%E6%9C%AC_Yu.pdf?CT=1725798423991&OR=ItemsView)
 
 ### If you have any suggestions and comments, please let me know by email 🙌
 
