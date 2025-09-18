@@ -1,9 +1,9 @@
 ---
 title: Xiaokun Yu 俞小坤
-role: Postgraduate Student in Economics
+role: PhD Student in Economics
 avatar_filename: avatar.jpg
-bio: My research interests include Digital Economics, Innovation Economics and
-  Quantitative History.
+bio: My research interests include Digital Economics, Regional Economics and
+  Public Finance.
 interests:
   - Digital Economics
   - Regional Economics
@@ -26,9 +26,9 @@ organizations:
     url: https://www.um.edu.mo/
 education:
   courses:
-    - course: Master's Candidate in Economics, Present
+    - course: Master of Social Science in Economics, Present
       institution: Faculty of Social Sciences, The University of Macau
-      year: ""
+      year: 2025
     - course: Bachelor of Economics
       institution: School of Applied Economics, Renmin University of China
       year: 2023
