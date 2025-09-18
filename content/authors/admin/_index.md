@@ -1,5 +1,5 @@
 ---
-title: Xiaokun Yu
+title: Xiaokun Yu 俞小坤
 role: PhD Student in Economics
 avatar_filename: avatar.jpg
 bio: My research interests include Digital Economics, Regional Economics and
