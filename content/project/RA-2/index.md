@@ -1,7 +1,7 @@
 ---
 slides: ""
 url_pdf: ""
-summary: I will briefly introduce my RA career for Leona.L, Bruce.Z and Stone B.
+summary: I will briefly introduce my RA career for some respected professors.
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
 categories:

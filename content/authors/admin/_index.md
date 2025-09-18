@@ -20,7 +20,7 @@ social:
     link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://uofmacau-my.sharepoint.com/personal/mc35657_um_edu_mo/Documents/CV_Yu.pdf?CT=1725799012435&OR=ItemsView
 organizations:
   - name: The University of Macau
     url: https://www.um.edu.mo/
@@ -35,9 +35,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Yu
 highlight_name: true
-first_name: Alice
+first_name: Bryce
 email: ""
 ---
 Yu Xiaokun is a master's candidate in the Department of Economics at the University of Macau. He graduated from the School of Applied Economics at Renmin University of China with a bachelor's degree in Economics in 2023. His research interests include digital economics, innovation economics and quantitative history, with a particular focus on the socio-economic impact of major historical events.

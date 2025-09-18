@@ -1,5 +1,5 @@
 ---
-title: TOP - My Curriculum vitae
+title: TOP - My Curriculum Vitae
 date: 2023-08-25
 math: true
 authors:
@@ -14,8 +14,8 @@ image:
   placement: ""
   caption: ""
 ---
-### My Curriculum vitae
+### My Curriculum Vitae
 
-👉[CV, Updateded on 07/30/2023; Not downloadable](https://maifile.cn/est/a2906929662915/pdf)
+👉[CV, Updated on 02/09/2024](https://uofmacau-my.sharepoint.com/personal/mc35657_um_edu_mo/Documents/CV_Yu.pdf?CT=1725799012435&OR=ItemsView)
 
 ### If you have any suggestions and comments, please let me know by email 🙌

@@ -38,8 +38,7 @@ image:
 
 ### Get the Latest Paper
 
-👉[Chinese Version: Revised on 05/30/2023](https://maifile.cn/est/d3286906177718/pdf)
-
+👉[Chinese Version: Revised on 05/30/2023](https://uofmacau-my.sharepoint.com/personal/mc35657_um_edu_mo/Documents/%E7%81%BE%E5%AE%B3%E7%BB%8F%E5%8E%86%E4%B8%8E%E7%A4%BE%E4%BC%9A%E4%BF%A1%E4%BB%BB%E8%B5%84%E6%9C%AC_Yu.pdf?CT=1725798423991&OR=ItemsView)
 
 ### If you have any suggestions and comments, please let me know by email 🙌
 
