@@ -1,13 +1,13 @@
 ---
 title: Xiaokun Yu 俞小坤
 role: Postgraduate Student in Economics
-avatar_filename: avatar.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include Digital Economics, Innovation Economics and
   Quantitative History.
 interests:
   - Digital Economics
-  - Innovation Economics
-  - Quantitative History
+  - Regional Economics
+  - Public Finance
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,5 +40,5 @@ highlight_name: true
 first_name: Bryce
 email: ""
 ---
-Yu Xiaokun is a master's candidate in the Department of Economics at the University of Macau. He graduated from the School of Applied Economics at Renmin University of China with a bachelor's degree in Economics in 2023. His research interests include digital economics, innovation economics and quantitative history, with a particular focus on the socio-economic impact of major historical events.
+Yu Xiaokun is a PhD student at the School of Applied Economics, Renmin University of China. He obtained a Master of Social Science in Economics from the Department of Economics at the University of Macau in 2025. His research interests include Regional Economics, Industrial Economics, Public Finance, and Digital Economics. He is also a seasoned player of Werewolf.
 {style="text-align: justify;"}
