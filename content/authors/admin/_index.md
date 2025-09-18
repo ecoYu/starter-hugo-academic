@@ -22,11 +22,11 @@ social:
     icon_pack: ai
     link: https://uofmacau-my.sharepoint.com/personal/mc35657_um_edu_mo/Documents/CV_Yu.pdf?CT=1725799012435&OR=ItemsView
 organizations:
-  - name: The University of Macau
+  - name: Renmin University of China
     url: https://www.um.edu.mo/
 education:
   courses:
-    - course: Master of Social Science in Economics, Present
+    - course: Master of Social Science in Economics
       institution: Faculty of Social Sciences, The University of Macau
       year: 2025
     - course: Bachelor of Economics
